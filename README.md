@@ -35,4 +35,4 @@ Group coursework made using Vue frontend + Djando backend deployed via openshift
  - Launch http://localhost:8000/
 ```
 
-URL - https://group4-web-apps-ec20614.apps.d.comp-teach.qmul.ac.uk/
+URL - https://gist.github.com/T0M1X/3566594c82d63d44ce273722a3b67d5c
